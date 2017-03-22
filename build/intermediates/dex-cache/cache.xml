@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-iid-10.0.1_33e455b32da99a8841edf6de0ec06832879266df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\library-2.4.0_b22dae559c10c07f18b0c4a370c5c28eeb3cf7e4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_c79211e75230826d21c53c6599b28019a6357643\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.0.0_d923f9ccaf03159befaaa9fd393070e6d9452842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-21.0.3_5fbdd37d2ce4532eaf902876c44ce7e4a5e55af9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.github.voghDev\PdfViewPager\4bdff5afa0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="197ff188f307a4ff8b975ff4649e5eb13b3ec1ec">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.voghDev-PdfViewPager-4bdff5afa0_2f54a59d85e3d9260f22219a7d80a599e0041748\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.1.1_e7d111b8718f9ff5aa7da6c7900e15d01fb25dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gcm-10.0.1_f49a7d5249553b3f5fc16afdd8ba1577c557cdf4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.github.ozodrukh\CircularReveal\1.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c231461bd4ab97550b0b053c159e4f13ffc869">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.ozodrukh-CircularReveal-1.0.4_e423c3e6bc486feaaebd929a98564da4a3882b2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3_109166504038b09c681af9ba94e912c049dfa562\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.quickblox\quickblox-android-sdk-core\3.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48a90db38d32b4164a220e0852b8018e8cf559ce">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.quickblox-quickblox-android-sdk-core-3.2.0_2703cc2bf7f82428a30e665a24d6378ae77917ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.github.yalantis\Side-Menu.Android\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e9634168413b1752941c036e5e4b1c00439b90f">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.yalantis-Side-Menu.Android-1.0.1_97d5eb94b85b05ec7a88e8473e649d053e133d98\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\support-annotations-24.0.0_861b1b6ff25618bac70c58f7cd5990bb741e4fcc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_323b2f4698103f608074a1893389ecd1df07d267\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.quickblox\quickblox-android-sdk-messages\3.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="100e0e736550ce39bd7d03c934432ab5a4fd8df4">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.quickblox-quickblox-android-sdk-messages-3.2.0_6a152e61a2c41d0bda5e5b567c6406ea0bf3cb16\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-10.0.1_00924503f916262d57304c26c255093f31172f82.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_4e57ee8302e8a9761da2a03fc52c9b3a0c8c0cd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-impl-10.0.1_f3eec138c0250e660e97d463c2747249d160788b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="66d2cde6fac172ad54a0b6f7f891f2914e056079">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_328f0ab9d92426369c12ba8a0a354aebd8af7a5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_7bee6fd66c4c85539d6123a3665c0268f2c36936\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_c42058037374edbc6472c40dc84b659f1c412b90\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.android.volley-volley-1.0.0_fe3cef28ec944c05f0a9a8fb5704730814155aa1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.commit451\PhotoView\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="890be6e1e56a883c9b407a11e067a61886dec123">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.commit451-PhotoView-1.2.4_8f3af2b5aa0e99669732804f1174262341d84c3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.quickblox\quickblox-android-sdk-customobjects\2.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef1307c7f41fd37be6fb3f842197c65027a3df33">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.quickblox-quickblox-android-sdk-customobjects-2.6.1_437c5681621cbf92138d8fb79ebd10b306616adf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.kaopiz\kprogresshud\1.0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="303f3c19296009125297a0cf7971c55c55ec0d6f">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.kaopiz-kprogresshud-1.0.5_bb155b431615e0aa9d6657903f351908367227a9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_1bce86398177883b6ce2ce084715abc26742864c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_3deaa9dac0cc72ceb5527c76a4fb48ebe1e4b4cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-21.0.3_63872723643ec6c0813c448e10969f5467a328fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.quickblox\quickblox-android-sdk-messages\3.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="100e0e736550ce39bd7d03c934432ab5a4fd8df4">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.quickblox-quickblox-android-sdk-messages-3.2.0_6a152e61a2c41d0bda5e5b567c6406ea0bf3cb16.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b63b43ec23f3edaa0e19207a403119b1326872b">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5e4d960d5f6abef01997cbcce7ff137023f6b1f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-21.0.3_5fbdd37d2ce4532eaf902876c44ce7e4a5e55af9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_33e455b32da99a8841edf6de0ec06832879266df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_861b1b6ff25618bac70c58f7cd5990bb741e4fcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_f49a7d5249553b3f5fc16afdd8ba1577c557cdf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.github.ozodrukh\CircularReveal\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c231461bd4ab97550b0b053c159e4f13ffc869">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.github.ozodrukh-CircularReveal-1.0.4_e423c3e6bc486feaaebd929a98564da4a3882b2f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_b22dae559c10c07f18b0c4a370c5c28eeb3cf7e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.github.voghDev\PdfViewPager\4bdff5afa0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="197ff188f307a4ff8b975ff4649e5eb13b3ec1ec">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.github.voghDev-PdfViewPager-4bdff5afa0_2f54a59d85e3d9260f22219a7d80a599e0041748.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_e7d111b8718f9ff5aa7da6c7900e15d01fb25dff\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-iid-10.0.1_c79211e75230826d21c53c6599b28019a6357643.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.quickblox\quickblox-android-sdk-core\3.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48a90db38d32b4164a220e0852b8018e8cf559ce">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.quickblox-quickblox-android-sdk-core-3.2.0_2703cc2bf7f82428a30e665a24d6378ae77917ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_d923f9ccaf03159befaaa9fd393070e6d9452842\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.5_323b2f4698103f608074a1893389ecd1df07d267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.quickblox\quickblox-android-sdk-content\2.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="decbad0ea1770d4c95650dcb496c156476eae820">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.quickblox-quickblox-android-sdk-content-2.6.1_05d9062f13b7ce95c068c3bbcc10e7a560158ddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\internal_impl-24.0.0_3b4566fce0fb901b73f29e03141a0b76850fb0e2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_fe3cef28ec944c05f0a9a8fb5704730814155aa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.github.yalantis\Side-Menu.Android\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e9634168413b1752941c036e5e4b1c00439b90f">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.github.yalantis-Side-Menu.Android-1.0.1_97d5eb94b85b05ec7a88e8473e649d053e133d98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-10.0.1_4e57ee8302e8a9761da2a03fc52c9b3a0c8c0cd1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_00924503f916262d57304c26c255093f31172f82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_f3eec138c0250e660e97d463c2747249d160788b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-10.0.1_c42058037374edbc6472c40dc84b659f1c412b90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-10.0.1_7bee6fd66c4c85539d6123a3665c0268f2c36936.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_3b4566fce0fb901b73f29e03141a0b76850fb0e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.quickblox\quickblox-android-sdk-customobjects\2.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef1307c7f41fd37be6fb3f842197c65027a3df33">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.quickblox-quickblox-android-sdk-customobjects-2.6.1_437c5681621cbf92138d8fb79ebd10b306616adf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.quickblox\quickblox-android-sdk-content\2.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="decbad0ea1770d4c95650dcb496c156476eae820">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.quickblox-quickblox-android-sdk-content-2.6.1_05d9062f13b7ce95c068c3bbcc10e7a560158ddc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-10.0.1_1bce86398177883b6ce2ce084715abc26742864c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-messaging-10.0.1_3deaa9dac0cc72ceb5527c76a4fb48ebe1e4b4cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\gson-2.3_109166504038b09c681af9ba94e912c049dfa562.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.kaopiz\kprogresshud\1.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="303f3c19296009125297a0cf7971c55c55ec0d6f">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.kaopiz-kprogresshud-1.0.5_bb155b431615e0aa9d6657903f351908367227a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.commit451\PhotoView\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="890be6e1e56a883c9b407a11e067a61886dec123">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.commit451-PhotoView-1.2.4_8f3af2b5aa0e99669732804f1174262341d84c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="E:\android_proj\MarkazeTasawwuf\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-21.0.3_63872723643ec6c0813c448e10969f5467a328fd.jar" />
+    </item>
+
+</items>

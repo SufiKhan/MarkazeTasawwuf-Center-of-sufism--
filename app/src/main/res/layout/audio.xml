@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/containerAudio"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+
+        <ListView
+            android:id="@+id/audiolistview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center|top"
+            android:layout_marginTop="?attr/actionBarSize"
+            android:orientation="vertical"
+            android:dividerHeight="0dp"
+            android:background="@android:color/white"
+
+            android:scrollbars="none"></ListView>
+
+    </FrameLayout>
+</RelativeLayout>

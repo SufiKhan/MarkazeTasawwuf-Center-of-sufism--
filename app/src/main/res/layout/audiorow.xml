@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView7"
+            android:src="@drawable/musical"
+            android:layout_weight="0.1"
+            android:layout_marginTop="12dp"
+            android:elevation="21dp" />
+
+        <TextView
+            android:text="Libas-e-yaar me p"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/audioname"
+            android:textSize="18dp"
+            android:layout_weight="0.6"
+            android:ellipsize="marquee"
+            android:singleLine="true"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:scrollHorizontally="true"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/GlobalBlueColor" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/downloadAudio"
+            android:layout_weight="0.28"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/button"
+            android:textAllCaps="false"
+            android:textSize="22sp"
+            android:textColor="@android:color/white" />
+        <SurfaceView
+            android:layout_height="match_parent"
+            android:id="@+id/surfaceView"
+            android:layout_weight=".02"
+            android:background="@color/GlobalBlueColor"
+            android:layout_width="0dp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imageViewsplash"
+        android:src="@drawable/launcher"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Markaze"
+        android:id="@+id/firstString"
+        android:textColor="@android:color/white"
+        android:layout_alignTop="@+id/imageViewsplash"
+        android:layout_alignLeft="@+id/imageViewsplash"
+        android:layout_alignStart="@+id/imageViewsplash"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Tasawwuf"
+        android:id="@+id/secondString"
+        android:textColor="@android:color/white"
+        android:layout_alignBaseline="@+id/firstString"
+        android:layout_alignBottom="@+id/firstString"
+        android:layout_alignRight="@+id/imageViewsplash"
+        android:layout_alignEnd="@+id/imageViewsplash"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:visibility="invisible"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Center of sufism"
+        android:id="@+id/thirdString"
+        android:textColor="@android:color/white"
+        android:visibility="invisible"
+        android:layout_alignBottom="@+id/imageViewsplash"
+        android:layout_alignLeft="@+id/imageViewsplash"
+        android:layout_alignStart="@+id/imageViewsplash"
+        android:textSize="30sp" />
+
+</RelativeLayout>

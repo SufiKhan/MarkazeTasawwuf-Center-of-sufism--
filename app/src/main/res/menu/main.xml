@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item  android:id="@+id/books"
+        android:visible="false"
+        />
+    <item  android:id="@+id/video"
+        android:visible="false"
+       />
+    <item  android:id="@+id/taleem"
+        android:visible="false"
+       />
+    <item  android:id="@+id/audio"
+        android:visible="false"
+        />
+    <item  android:id="@+id/image"
+        android:visible="false"
+       />
+    <item  android:id="@+id/update"
+        android:visible="false"
+        />
+</menu>

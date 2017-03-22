@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="GlobalBlueColor">#14255b</color>
+    <color name="LightGrayColor">#BDC3C7</color>
+    <color name="Pink">#cd0f5a</color>
+    <color name="Green">#1B6812</color>
+    <color name="LightBlue">#5DADE2</color>
+    <color name="colorAccent">#d8094f</color>
+</resources>
