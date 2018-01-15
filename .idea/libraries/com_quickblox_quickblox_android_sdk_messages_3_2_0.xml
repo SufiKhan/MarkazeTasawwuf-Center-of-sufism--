@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.quickblox:quickblox-android-sdk-messages-3.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.2.0.aar/8eb0f46599ecb21064a87791b5b8534e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.2.0.aar/8eb0f46599ecb21064a87791b5b8534e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

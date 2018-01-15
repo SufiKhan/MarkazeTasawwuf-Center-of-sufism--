@@ -9,4 +9,10 @@
     <string name="Download">Download</string>
     <string name="Play">Play</string>
     <string name="sender_id">429145708805</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">UY8H3ZACcfLRW7IkKRukjKntXaFk1uAqs3RTszd4</string>
+    <string name="back4app_client_key">afIVo5BJDxM4eYQjziPMWwb9u81q77bfpqXUD9Cv</string>
+
 </resources>

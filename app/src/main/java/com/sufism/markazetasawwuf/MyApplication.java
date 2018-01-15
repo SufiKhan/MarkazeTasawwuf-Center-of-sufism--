@@ -86,9 +86,9 @@ public class MyApplication extends Application {
                     @Override
                     public void onSuccess(QBSession qbSession, Bundle bundle) {
                         sessionToken = qbSession.getToken();
-                        if(getTinyDb().getBoolean(Constants.TOKEN_SENT_TO_SERVER,false)!= true){
-                            subscribeToGCM(sessionToken);
-                        }
+//                        if(getTinyDb().getBoolean(Constants.TOKEN_SENT_TO_SERVER,false)!= true){
+//                            subscribeToGCM(sessionToken);
+//                        }
                         callback.onSuccess(true);
 
                     }
@@ -119,94 +119,94 @@ public class MyApplication extends Application {
         return sessionToken;
     }
 
-    private void subscribeToGCM(final String token){
-        if(isNetworkAvailble(getApplicationContext())){
-//            showProgress(MainActivity.getContext(),Constants.PLEASE_WAIT,"Subscribing for notifications");
-            Thread thread = new Thread(new Runnable() {
-                @Override
-                public void run() {
-                    try {
-                       InstanceID instanceID = InstanceID.getInstance(MainActivity.getContext());
-                        String deviceToken = instanceID.getToken(getString(R.string.gcm_defaultSenderId),
-                                GoogleCloudMessaging.INSTANCE_ID_SCOPE, null);
-                        JSONObject json = new JSONObject();
-                        json.put("notification_channels","gcm");
-                        JSONObject pushToken = new JSONObject();
-                        pushToken.put("environment","production");
-                        pushToken.put("client_identification_sequence",deviceToken);
-                        json.put("push_token",pushToken);
-                        JSONObject device = new JSONObject();
-                        device.put("platform","android");
-                        String deviceId = Settings.Secure.getString(getApplicationContext().getContentResolver(), Settings.Secure.ANDROID_ID);
-                        device.put("udid",deviceId);
-                        json.put("device",device);
-//                        stopProgress(MainActivity.getContext());
-                        sendSubscriptionToServer(json,token);
-
-                    }catch (Exception e) {
-//                        stopProgress(MainActivity.getContext());
-                        Log.d("GCM", "Failed to complete token refresh", e);
-                    }
-                }
-
-            });
-            thread.start();
-        }else{
-            showCustomProgress(MainActivity.getContext(),R.drawable.error,Constants.NO_INTERNET);
-            scheduleDismiss();
-        }
-    }
-    private void sendSubscriptionToServer(JSONObject params, final String token){
-        try {
-            RequestQueue requestQueue = Volley.newRequestQueue(this);
-            final String requestBody = params.toString();
-            StringRequest stringRequest = new StringRequest(Request.Method.POST, Constants.FCM_SUBSCRIPTION_URL, new Response.Listener<String>() {
-                @Override
-                public void onResponse(String response) {
-                    getTinyDb().putBoolean(Constants.TOKEN_SENT_TO_SERVER,true);
-                }
-            }, new Response.ErrorListener() {
-                @Override
-                public void onErrorResponse(VolleyError error) {
-                    Log.e("VOLLEY", error.getMessage());
-                }
-            }) {
-                @Override
-                public String getBodyContentType() {
-                    return "application/json; charset=utf-8";
-                }
-
-                @Override
-                public byte[] getBody() throws AuthFailureError {
-                    try {
-                        return requestBody == null ? null : requestBody.getBytes("utf-8");
-                    } catch (UnsupportedEncodingException uee) {
-                        VolleyLog.wtf("Unsupported Encoding while trying to get the bytes of %s using %s", requestBody, "utf-8");
-                        return null;
-                    }
-                }
-
-                @Override
-                protected Response<String> parseNetworkResponse(NetworkResponse response) {
-                    String responseString = "";
-                    if (response != null) {
-                        responseString = String.valueOf(response.statusCode);
-                        // can get more details such as response.headers
-                    }
-                    return Response.success(responseString, HttpHeaderParser.parseCacheHeaders(response));
-                }
-                @Override
-                public Map<String, String> getHeaders() throws AuthFailureError {
-                    Map<String, String> params = new HashMap<>();
-                    params.put("QB-Token", token);
-                    return params;
-                }
-            };
-            requestQueue.add(stringRequest);
-        } catch (JsonParseException e) {
-            e.printStackTrace();
-        }
-    }
+//    private void subscribeToGCM(final String token){
+//        if(isNetworkAvailble(getApplicationContext())){
+////            showProgress(MainActivity.getContext(),Constants.PLEASE_WAIT,"Subscribing for notifications");
+//            Thread thread = new Thread(new Runnable() {
+//                @Override
+//                public void run() {
+//                    try {
+//                       InstanceID instanceID = InstanceID.getInstance(MainActivity.getContext());
+//                        String deviceToken = instanceID.getToken(getString(R.string.gcm_defaultSenderId),
+//                                GoogleCloudMessaging.INSTANCE_ID_SCOPE, null);
+//                        JSONObject json = new JSONObject();
+//                        json.put("notification_channels","gcm");
+//                        JSONObject pushToken = new JSONObject();
+//                        pushToken.put("environment","production");
+//                        pushToken.put("client_identification_sequence",deviceToken);
+//                        json.put("push_token",pushToken);
+//                        JSONObject device = new JSONObject();
+//                        device.put("platform","android");
+//                        String deviceId = Settings.Secure.getString(getApplicationContext().getContentResolver(), Settings.Secure.ANDROID_ID);
+//                        device.put("udid",deviceId);
+//                        json.put("device",device);
+////                        stopProgress(MainActivity.getContext());
+//                        sendSubscriptionToServer(json,token);
+//
+//                    }catch (Exception e) {
+////                        stopProgress(MainActivity.getContext());
+//                        Log.d("GCM", "Failed to complete token refresh", e);
+//                    }
+//                }
+//
+//            });
+//            thread.start();
+//        }else{
+//            showCustomProgress(MainActivity.getContext(),R.drawable.error,Constants.NO_INTERNET);
+//            scheduleDismiss();
+//        }
+//    }
+//    private void sendSubscriptionToServer(JSONObject params, final String token){
+//        try {
+//            RequestQueue requestQueue = Volley.newRequestQueue(this);
+//            final String requestBody = params.toString();
+//            StringRequest stringRequest = new StringRequest(Request.Method.POST, Constants.FCM_SUBSCRIPTION_URL, new Response.Listener<String>() {
+//                @Override
+//                public void onResponse(String response) {
+//                    getTinyDb().putBoolean(Constants.TOKEN_SENT_TO_SERVER,true);
+//                }
+//            }, new Response.ErrorListener() {
+//                @Override
+//                public void onErrorResponse(VolleyError error) {
+////                    Log.e("VOLLEY", error.getMessage());
+//                }
+//            }) {
+//                @Override
+//                public String getBodyContentType() {
+//                    return "application/json; charset=utf-8";
+//                }
+//
+//                @Override
+//                public byte[] getBody() throws AuthFailureError {
+//                    try {
+//                        return requestBody == null ? null : requestBody.getBytes("utf-8");
+//                    } catch (UnsupportedEncodingException uee) {
+//                        VolleyLog.wtf("Unsupported Encoding while trying to get the bytes of %s using %s", requestBody, "utf-8");
+//                        return null;
+//                    }
+//                }
+//
+//                @Override
+//                protected Response<String> parseNetworkResponse(NetworkResponse response) {
+//                    String responseString = "";
+//                    if (response != null) {
+//                        responseString = String.valueOf(response.statusCode);
+//                        // can get more details such as response.headers
+//                    }
+//                    return Response.success(responseString, HttpHeaderParser.parseCacheHeaders(response));
+//                }
+//                @Override
+//                public Map<String, String> getHeaders() throws AuthFailureError {
+//                    Map<String, String> params = new HashMap<>();
+//                    params.put("QB-Token", token);
+//                    return params;
+//                }
+//            };
+//            requestQueue.add(stringRequest);
+//        } catch (JsonParseException e) {
+//            e.printStackTrace();
+//        }
+//    }
     public static String getSessionToken(){
         return sessionToken;
     }
