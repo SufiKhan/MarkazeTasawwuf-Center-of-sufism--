@@ -23,7 +23,6 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
     private final int NOTIFICATION_ID = 237;
     private static int value = 0;
-
     /**
      * Called when message is received.
      *
