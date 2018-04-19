@@ -1,4 +1,4 @@
-package com.sufism.markazetasawwuf;
+package com.markazetasawwuf;
 
 import org.junit.Test;
 

@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "1036107221697",
-    "firebase_url": "https://markaze-tasawwuf.firebaseio.com",
-    "project_id": "markaze-tasawwuf",
-    "storage_bucket": "markaze-tasawwuf.appspot.com"
+    "project_number": "265297929646",
+    "firebase_url": "https://markaze-tasawwuf-b0cda.firebaseio.com",
+    "project_id": "markaze-tasawwuf-b0cda",
+    "storage_bucket": "markaze-tasawwuf-b0cda.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1036107221697:android:e1d8e126957435dd",
+        "mobilesdk_app_id": "1:265297929646:android:1ad0fd201654656b",
         "android_client_info": {
-          "package_name": "com.sufism.markazetasawwuf"
+          "package_name": "com.markazetasawwuf"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1036107221697-u2bdor3qk9iq90j3m8o3o8a98k8ndle7.apps.googleusercontent.com",
+          "client_id": "265297929646-2l2lk8401m1vf803hgq2k89urvlrnlp6.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA3txqUD5w7Nk7dNcvV49demfQs2YRav80"
+          "current_key": "AIzaSyAngUrWwoLNoWw4WkeH_wtREDBqPdFPk8c"
         }
       ],
       "services": {
